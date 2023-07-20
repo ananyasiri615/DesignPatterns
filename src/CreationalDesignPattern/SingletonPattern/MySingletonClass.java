@@ -7,6 +7,7 @@ package CreationalDesignPattern.SingletonPattern;
     private static MySingletonClass singletonObj;
 
     //private means this constructor cannot be accesses outside this class
+    //that means no object can be created outside this class
     private MySingletonClass(){
 
     }
