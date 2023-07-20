@@ -26,6 +26,7 @@ public class Actor {
         private String surname;
         private String city;
 
+
         public ActorBuilder(int id, String name, String surname, String city) {
             super();
             this.id = id;
@@ -120,5 +121,21 @@ public class Actor {
 
     public void setVehicalNumber(int vehicalNumber) {
         this.vehicalNumber = vehicalNumber;
+    }
+
+    @Override
+    public String toString() {
+        return "Actor{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", surname='" + surname + '\'' +
+                ", city='" + city + '\'' +
+                ", age=" + age +
+                ", pinCode=" + pinCode +
+                ", qualification='" + qualification + '\'' +
+                ", address='" + address + '\'' +
+                ", OwnedVehical='" + OwnedVehical + '\'' +
+                ", vehicalNumber=" + vehicalNumber +
+                '}';
     }
 }

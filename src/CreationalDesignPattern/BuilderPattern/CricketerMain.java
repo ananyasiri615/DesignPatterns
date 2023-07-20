@@ -4,10 +4,10 @@ public class CricketerMain {
     public static void main(String[] args) {
 
         Cricketer c = new Cricketer.CricketerBuilder(101, "Mahendra Singh", "India", 10000,50).build();
-        System.out.println("Cricketer mandatory info : " + c);
 
         c.setSurname("Dhoni");
         c.setAge(39);
+
         System.out.println("Cricketer mandatory info : " + c);
 
 

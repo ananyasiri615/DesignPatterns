@@ -1,19 +1,5 @@
 
-h
-8src/CreationalDesignPattern/FactoryPattern/Engineer.java,8\0\801515b3eb81b30773b2fbc6f779ca65f8749f7e
 p
 @src/CreationalDesignPattern/FactoryPattern/SoftwareEngineer.java,1\e\1e9c4d9764da3cbdda02cd8903d735f95d8189b7
-r
-Bsrc/CreationalDesignPattern/FactoryPattern/MechanicalEngineer.java,0\0\00d58d86cd50fd03bdff4d5ec682692d0e966aa7
-f
-6src/CreationalDesignPattern/FactoryPattern/Doctor.java,0\1\01da8e4d3684f9858dd4f1dff083ca2f756608ce
-l
-<src/CreationalDesignPattern/FactoryPattern/Gynecologist.java,3\4\34c0e5189a7e86e6409d7819c513960f6e39ae76
 j
 :src/CreationalDesignPattern/FactoryPattern/Orthopedic.java,1\7\17c599cb05df634c7f756ca3e37ed81a546e5bcc
-o
-?src/CreationalDesignPattern/FactoryPattern/EngineerFactory.java,9\7\97c2ec0774adfc2b242e369b9af755ccb2da2d75
-m
-=src/CreationalDesignPattern/FactoryPattern/CivilEngineer.java,6\3\63f2a14f4d6f2dd71ec0b41e75510265883f00c2
-m
-=src/CreationalDesignPattern/FactoryPattern/Dermatologist.java,a\c\ac5310ef12c6bf55ad2ddd0c39ceb0fafe7f37d8
