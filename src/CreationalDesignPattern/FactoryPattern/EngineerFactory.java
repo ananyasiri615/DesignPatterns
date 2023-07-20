@@ -16,7 +16,7 @@ public class EngineerFactory {
                 engineer = new SoftwareEngineer();
                 break;
             case "mechanical" :
-                engineer = new SoftwareEngineer();
+                engineer = new MechanicalEngineer();
                 break;
             default :
                 engineer = null;

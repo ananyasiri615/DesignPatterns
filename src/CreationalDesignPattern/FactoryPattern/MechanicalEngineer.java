@@ -8,7 +8,6 @@ public class MechanicalEngineer extends Engineer {
 
     public MechanicalEngineer() {
         super();
-        // TODO Auto-generated constructor stub
     }
 
     @Override
