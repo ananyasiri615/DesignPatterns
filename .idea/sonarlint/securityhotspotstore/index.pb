@@ -27,9 +27,6 @@ x
 Hsrc/CreationalDesignPattern/AbstractFactoryPattern/SoftwareEngineer.java,f\0\f026a004fde0e574cf497ddf25dfae6be0523afb
 r
 Bsrc/CreationalDesignPattern/AbstractFactoryPattern/Orthopedic.java,e\3\e3d428b05772d4afebc96fdbbaa64d6584866640
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 m
 =src/CreationalDesignPattern/FactoryPattern/Dermatologist.java,a\c\ac5310ef12c6bf55ad2ddd0c39ceb0fafe7f37d8
 f

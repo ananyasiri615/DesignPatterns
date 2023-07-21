@@ -27,9 +27,6 @@ x
 Hsrc/CreationalDesignPattern/AbstractFactoryPattern/SoftwareEngineer.java,f\0\f026a004fde0e574cf497ddf25dfae6be0523afb
 r
 Bsrc/CreationalDesignPattern/SingletonPattern/MySingletonClass.java,7\d\7d0e21a9479a5decaea5567ffc68bc271fd09bcf
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 f
 6src/CreationalDesignPattern/FactoryPattern/Doctor.java,0\1\01da8e4d3684f9858dd4f1dff083ca2f756608ce
 m
