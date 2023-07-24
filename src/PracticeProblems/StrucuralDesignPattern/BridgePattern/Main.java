@@ -6,8 +6,6 @@ public class Main {
             Colour red = new RedColour();
             Colour green = new GreenColour();
 
-
-
             Building s1 = new IndependentHouse(green);
             s1.appplyColourToBuilding();
             Building s2 = new Villa(red);
